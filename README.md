@@ -3,7 +3,7 @@
 </p>
 
 <h1>Active Directory: Understanding DNS 🪟</h1>
-In this lab we attempt to understand DNS a bit deeper by executing some of its functions. We attempt to Ping the mainframe of the Domain Controller, Create DNS Records for the Mainframe, Change the IP Address of the Mainframe, Assess Old IP Information Leftover in the Cache, Perform a DNS Flush and Assess the New IP Information
+In this lab we attempt to understand DNS a bit deeper by executing some of its functions. We attempt to Ping the mainframe of the Domain Controller, Create DNS Records for the Mainframe, Change the IP Address of the Mainframe, Assess Old IP Information Leftover in the Cache, Perform a DNS Flush and Assess the New IP Information.
 
 (Link Back to Main Project Contents Page is at the Bottom of this Repo)
 <h2>Environments and Technologies Used</h2>
