@@ -3,7 +3,7 @@
 </p>
 
 <h1>Active Directory: Understanding DNS 🪟</h1>
-In this lab we attempt to understand DNS a bit deeper by executing some of its functions. We attempt to Ping the mainframe of the Domain Controller, Create DNS Records for the Mainframe, Change the IP Address of the Mainframe, Assess Old IP Information Leftover in the Cache, Perform a DNS Flush and Assess the New IP Information.
+In this lab we attempt to understand DNS a bit deeper by executing some of its functions. We attempt to Ping the mainframe of the Domain Controller, Create DNS Records for the Mainframe, Change the IP Address of the Mainframe, Assess Old IP Information Left Over in the Cache, Perform a DNS Flush and Assess the New IP Information.
 
 (Link Back to Main Project Contents Page is at the Bottom of this Repo)
 <h2>Environments and Technologies Used</h2>
@@ -12,6 +12,7 @@ In this lab we attempt to understand DNS a bit deeper by executing some of its f
 - Microsoft Azure Resource Group
 - Microsoft Azure Windows 10 Pro version 22H2 - x64 Gen2 Virtual Machine
 - Microsoft Azure Windows Server 22 Datacenter: Azure Edition - x64 Gen2 Virtual Machine
+- Windows Powershell
 
 <h2>Operating Systems Used </h2>
 
@@ -29,110 +30,110 @@ In this lab we attempt to understand DNS a bit deeper by executing some of its f
 </p>
 <br />
 <p>
-<img src="" alt="1"/>
+<img src="https://i.imgur.com/wvtNIa5.png" alt="1"/>
 </p>
 <p>
 2. 
 </p>
 <br />
 <p>
-<img src="" alt="2"/>
+<img src="https://i.imgur.com/hoWVJIU.png" alt="2"/>
 </p>
 <p>
 3. 
 </p>
 <br />
 <p>
-<img src="" alt="3"/>
+<img src="https://i.imgur.com/afTiEMM.png" alt="3"/>
 </p>
 <p>
 4. 
 </p>
 <br />
 <p>
-<img src="" alt="4"/>
+<img src="https://i.imgur.com/d8V2WSc.png" alt="4"/>
 </p>
 <p>
 5. 
 </p>
 <br />
 <p>
-<img src="" alt="5"/>
+<img src="https://i.imgur.com/N8ckIrX.png" alt="5"/>
 </p>
 <p>
 6. 
 </p>
 <br />
-<img src="" alt="6"/>
+<img src="https://i.imgur.com/5TDhnPj.png" alt="6"/>
 </p>
 <p>
 7. 
 </p>
 <br />
 <p>
-<img src="" alt="7"/>
+<img src="https://i.imgur.com/sg6a8hJ.png" alt="7"/>
 </p>
 <p>
 8. 
 </p>
 <br />
 <p>
-<img src="" alt="8"/>
+<img src="https://i.imgur.com/u7aRKgC.png" alt="8"/>
 </p>
 <p>
 9. 
 </p>
 <br />
 <p>
-<img src="" alt="9"/>
+<img src="https://i.imgur.com/tCUQ0bV.png" alt="9"/>
 </p>
 <p>
 10. 
 </p>
 <br />
-<img src="" alt="10"/>
+<img src="https://i.imgur.com/gYnBXPP.png" alt="10"/>
 </p>
 <p>
 11. 
 </p>
 <br />
 <p>
-<img src="" alt="11"/>
+<img src="https://i.imgur.com/OhfXhlm.png" alt="11"/>
 </p>
 <p>
 12. 
 </p>
 <br />
 <p>
-<img src="" alt="12"/>
+<img src="https://i.imgur.com/OnQ70sg.png" alt="12"/>
 </p>
 <p>
 13. 
 </p>
 <br />
 <p>
-<img src="" alt="13"/>
+<img src="https://i.imgur.com/NFpgA2Z.png" alt="13"/>
 </p>
 <p>
 14. 
 </p>
 <br />
 <p>
-<img src="" alt="14"/>
+<img src="https://i.imgur.com/c5kFvml.png" alt="14"/>
 </p>
 <p>
 15. 
 </p>
 <br />
 <p>
-<img src="" alt="15"/>
+<img src="https://i.imgur.com/Z1AvSD0.png" alt="15"/>
 </p>
 <p>
 16. 
 </p>
 <br />
 <p>
-<img src="" alt="16"/>
+<img src="https://i.imgur.com/FQcOAp8.png" alt="16"/>
 </p>
 <p>
 LINK BACK TO THE MAIN PROJECT CONTENTS PAGE - https://github.com/cyberwahid01/Azure-Compute-and-Networking
