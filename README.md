@@ -40,14 +40,14 @@ In this lab we attempt to understand DNS a bit deeper by executing some of its f
 <img src="https://i.imgur.com/hoWVJIU.png" alt="2"/>
 </p>
 <p>
-3. Now we are starting the process of creating a DNS Host (A) record for the mainframe. To do this we need to access the DNS Manager from within out Domain Controller Server.
+3. Now we are starting the process of creating a DNS Host (A) record for the mainframe. To do this we need to access the DNS Manager from within our Domain Controller Server.
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/afTiEMM.png" alt="3"/>
 </p>
 <p>
-4. Within our Domain, we are creating a new Host with name mainframe, pointing to the IP Address 10.0.0.4.
+4. Within our Domain, we are creating a new Host with the name mainframe, pointing to the IP Address 10.0.0.4.
 </p>
 <br />
 <p>
@@ -67,7 +67,7 @@ In this lab we attempt to understand DNS a bit deeper by executing some of its f
 <img src="https://i.imgur.com/5TDhnPj.png" alt="6"/>
 </p>
 <p>
-7. We are now going into the DNS Manager and changing the IP Address to 8.8.8.8. This will be to demonstrate how DNS IP information is saved on our Client machine Cache.
+7. We are now going into the DNS Manager and changing the IP Address to 8.8.8.8. This will be to demonstrate how DNS IP Information is saved on our Client machine Cache.
 </p>
 <br />
 <p>
@@ -81,7 +81,7 @@ In this lab we attempt to understand DNS a bit deeper by executing some of its f
 <img src="https://i.imgur.com/u7aRKgC.png" alt="8"/>
 </p>
 <p>
-9. This can be further reiterated if we use the ipconfig command and display dns information. The old A (Host) Record still shows up.
+9. This can be further reiterated if we use the ipconfig command and display DNS information. The old A (Host) Record still shows up.
 </p>
 <br />
 <p>
